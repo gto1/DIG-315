@@ -11,7 +11,7 @@
 - Learn about semantic HTML elements
 
 ### Assignment Description
-Create your first HTML webpage about a topic you're passionate about. This could be your hobby, favorite sport, music, or any interest you'd like to share. Alternately create a bio page about the work you, like a bio or professional information page.
+Create your first HTML webpage about a topic you're passionate about. This could be your hobby, favorite sport, music, or any interest you'd like to share. Alternately, create a bio page about the work you do, like a bio or professional information page.
 
 ### Requirements
 1. Create a file named `index.html` in your code editor and save it into a project folder on your hard drive
