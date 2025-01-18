@@ -71,7 +71,7 @@ Create your first HTML webpage about a topic you're passionate about. This could
         <li>Tripod</li>
     </ol>
     
-    <img src="camera.jpg" alt="My first camera">
+    <img src="camera.png" alt="My first camera">
     
     <p>Check out my inspiration at <a href="https://photography.com">Photography.com</a></p>
 </body>
