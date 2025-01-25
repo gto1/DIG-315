@@ -2,13 +2,16 @@
 
 **Due Date:** End of Week 1 Sunday 11:59 PM  
 **Points:** 50  
-**Submission Format:** Single HTML file
+**Submission Format:** Single HTML file and image file
 
 ### Learning Objectives
 - Create and save an HTML file
 - Understand basic HTML document structure
 - Use fundamental HTML tags
 - Learn about semantic HTML elements
+
+### Create Your Website Project Folder
+Create a folder on your hard drive or somewhere safe that is easy for you to access. Name the folder "DIG-315 Website" or something similar that you prefer. This will be the folder in which you save all of your HTML and other website files for the remainder of the class. It's important to keep all of your files in one folder.
 
 ### Assignment Description
 Create your first HTML webpage about a topic you're passionate about. This could be your hobby, favorite sport, music, or any interest you'd like to share. Alternately, create a bio page about the work you do, like a bio or professional information page.
