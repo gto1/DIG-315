@@ -16,9 +16,10 @@ This week, you’ll create a **new HTML page** (without any CSS or JavaScript) t
 
 ### Instructions
 
-1. **Create a New File and Folder**  
-   - Make a folder named `week2_html_assignment`.  
-   - Inside that folder, create a file named `index.html`.
+1. **Create a New File**  
+   - Remember, we're always using the same project folder we started in Week 1 for our files.
+   - Go to your folder (same as Week 1) named `DIG-315 Website` (or whatever you named it).  
+   - Inside that folder, create a file named `about.html`.
 
 2. **Basic Skeleton**  
    - Start with the standard HTML doctype and structure:
@@ -43,11 +44,11 @@ This week, you’ll create a **new HTML page** (without any CSS or JavaScript) t
 
      ```html
      <header>
-       <h1>My Personal Blog</h1>
+       <h1>My Personal Site</h1>
        <nav>
          <ul>
-           <li><a href="#">Home</a></li>
-           <li><a href="#">About</a></li>
+           <li><a href="index.html">Home</a></li>
+           <li><a href="about.html">About</a></li>
            <li><a href="#">Contact</a></li>
          </ul>
        </nav>
@@ -109,10 +110,10 @@ This week, you’ll create a **new HTML page** (without any CSS or JavaScript) t
      - `<aside>` is optional but placed where it makes sense (likely within `<main>` or after it).  
      - `<footer>` is at the bottom of the page.  
    - Make sure the content **flows logically** and is easy to read.  
-   - **Open `index.html` in your browser** to verify that your headings, paragraphs, images, lists, and semantic elements display correctly (though unstyled for now).
+   - **Open `about.html` in your browser** to verify that your headings, paragraphs, images, lists, and semantic elements display correctly (though unstyled for now).
 
 8. **Submission**  
-   - Upload or submit your `index.html` file in the manner specified (via LMS or Git repo link).  
+   - Upload or submit your `about.html` file in the manner specified (via LMS or Git repo link).  
    - **Due Date:** End of Week 2.  
 
 ---
