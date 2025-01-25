@@ -1,16 +1,18 @@
-**Week 2 Assignment: “Expanding Our HTML with Semantic Elements”**  
+# Week 2 Build Lab
 
-### Objective
+**Due Date:** End of Week 2 Sunday 11:59 PM  
+**Points:** 50  
+**Submission Format:** Single HTML file
+
+### Learning Objectives
 - Build on last week’s assignment by incorporating **semantic HTML elements** to enhance structure and readability.  
 - Practice using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>` in a single page.  
 - Reinforce your understanding of headings, paragraphs, images, and lists in a more organized layout.
 
----
 
 ### Overview
 This week, you’ll create a **new HTML page** (without any CSS or JavaScript) that showcases proper use of semantic elements. Semantic elements convey the purpose of different sections of your webpage, making it easier for both developers and browsers (including assistive technologies) to understand the content’s structure.
 
----
 
 ### Instructions
 
