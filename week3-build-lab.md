@@ -17,12 +17,12 @@ In this assignment, you’ll take the same content or HTML structure you created
 ### Instructions
 
 1. **Set Up Your Workspace**  
-   - Inside your existing project folder (e.g., `DIG-315 Project`), create a **new folder** for Week 3 named `week3_css_assignment`.  
-   - Copy your `index.html` file from Week 2 into this new folder.  
-   - Create a new file named `styles.css` in the same folder (`week3_css_assignment`).
+   - Inside your existing project folder (e.g., `DIG-315 Project`) or whatever yours is named, create a **new HTML file** for Week 3 named `portfolio.html` or something similar. Be sure you have the proper `.html`.  
+   - Copy your `aboutus.html` code from Week 2 into this new file for a quick setup.  
+   - Create a new file named `styles.css` in the same folder. At this point you should have at least your 3 `.html` files and also your new `styles.css` all in your one project folder.
 
 2. **Link Your CSS**  
-   - In the `<head>` section of `index.html`, link your new stylesheet:
+   - In the `<head>` section of `portfolio.html`, link your new stylesheet:
      ```html
      <link rel="stylesheet" href="styles.css">
      ```
@@ -152,7 +152,9 @@ In this assignment, you’ll take the same content or HTML structure you created
    - Keep it simple; we’ll explore more robust CSS animations in future lessons.
 
 9. **Test & Refine**  
-   - **Open `index.html` in your browser** to see if your CSS updates appear.  
+   - **Open `portfolio.html` in your browser** to see if your CSS updates appear.
+   - If it's working, GREAT 🎉 -- Keep exploring and refining with various CSS that we've learned this week.
+   - If it's not working ❌ -- Go back to the earlier steps and check: 
    - Adjust the rules in `styles.css` until you’re happy with how the page looks.
 
 10. **Submission**  
