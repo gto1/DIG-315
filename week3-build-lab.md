@@ -18,7 +18,7 @@ In this assignment, you’ll take the same content or HTML structure you created
 
 1. **Set Up Your Workspace**  
    - Inside your existing project folder (e.g., `DIG-315 Project`) or whatever yours is named, create a **new HTML file** for Week 3 named `portfolio.html` or something similar. Be sure you have the proper `.html`.  
-   - Copy your `aboutus.html` code from Week 2 into this new file for a quick setup.  
+   - Add in your basic HTML code to this file. Alternately, you can copy your `aboutus.html` code from Week 2 into this new file for a quick setup.  
    - Create a new file named `styles.css` in the same folder. At this point you should have at least your 3 `.html` files and also your new `styles.css` all in your one project folder.
 
 2. **Link Your CSS**  
