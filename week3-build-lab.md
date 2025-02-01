@@ -137,6 +137,7 @@ In this assignment, you’ll take the same content or HTML structure you created
        color: #0066cc; /* Complementary color for headings */
      }
      ```
+   - NOTE: You should only have `body`, `h1`, or any other CSS selector listed in your `styles.css` file, but you can simply add more properties and values to the one that you already have in your CSS.
 
 8. **Optional Transition or Basic Animation**  
    - Add a **hover transition** on buttons or images:
