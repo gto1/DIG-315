@@ -154,11 +154,14 @@ In this assignment, you’ll take the same content or HTML structure you created
 9. **Test & Refine**  
    - **Open `portfolio.html` in your browser** to see if your CSS updates appear.
    - If it's working, GREAT 🎉 -- Keep exploring and refining with various CSS that we've learned this week.
-   - If it's not working ❌ -- Go back to the earlier steps and check: 
+   - If it's not working ❌ -- Go back to the earlier steps and check:
+      - Your `<link>` element is in your HTML files `<head>` section properly.
+      - Your CSS syntax and structure (the grammar of your code)
    - Adjust the rules in `styles.css` until you’re happy with how the page looks.
 
 10. **Submission**  
-   - Submit your `index.html` and `styles.css` files to the LMS or your class repo.  
+   - Submit your `index.html` and `styles.css` files to the LMS or your class repo.
+   - Take a screen shot or screen video of your working site with CSS to share with the class.
    - **Due Date:** End of Week 3.
 
 
