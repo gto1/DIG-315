@@ -158,9 +158,12 @@ In this assignment, you’ll take the same content or HTML structure you created
    - If it's not working ❌ -- Go back to the earlier steps and check:
       - Your `<link>` element is in your HTML files `<head>` section properly.
       - Your CSS syntax and structure (the grammar of your code)
-   - Adjust the rules in `styles.css` until you’re happy with how the page looks.
+   - GET CREATIVE!! Adjust the rules in `styles.css` until you’re happy with how the page looks.
 
-10. **Submission**  
+10. **Add Your CSS To All of Your HTML Pages**  
+   - Go back to your Week 1 and Week 2 HTML and add the `<link>` to your CSS files (Step #2 above) so that your CSS styles your entire site, not just one page.
+
+11. **Submission**  
    - Submit your `index.html` and `styles.css` files to the LMS or your class repo.
    - Take a screen shot or screen video of your working site with CSS to share with the class.
    - **Due Date:** End of Week 3.
