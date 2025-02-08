@@ -1,15 +1,17 @@
-**Week 4 Assignment: “Enhancing Our Web Page with Advanced CSS & Media Queries”**
+# Week 4 Build Lab
 
-### Objective
+**Due Date:** End of Week 4 Sunday 11:59 PM  
+**Points:** 50  
+**Submission Format:** Your HTML and CSS code and any supporting files
+
+### Learning Objectives
 - Improve your Week 3 web page design by adding **polished styles** and **basic media queries** for a responsive layout.  
 - Continue practicing effective CSS with clear comments, so you and your peers can easily understand how the code works.  
 
----
 
 ### Overview
 In Week 3, you combined HTML and CSS to style your page. Now, we’ll **refine** that design and make it **responsive** with **media queries**. You’ll learn how to adapt your site to different screen sizes (mobile, tablet, desktop) so it remains user-friendly on any device.
 
----
 
 ### Instructions
 
@@ -121,7 +123,7 @@ In Week 3, you combined HTML and CSS to style your page. Now, we’ll **refine**
    - Upload `index.html` and `styles.css` to your class LMS or Git repo as required.  
    - **Due Date**: End of Week 4.
 
----
+
 
 ### Grading Criteria
 
@@ -141,6 +143,5 @@ In Week 3, you combined HTML and CSS to style your page. Now, we’ll **refine**
    - HTML and CSS are properly linked, validated, and submitted on time.  
    - Shows effort in cleaning up and improving the previous assignment.
 
----
 
 **That’s it!** By applying **media queries** and a more polished CSS design, you’ll experience the power of **responsive web development**. Keep experimenting, ask questions, and enjoy seeing your page come to life on screens of all sizes!
