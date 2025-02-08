@@ -16,12 +16,14 @@ In Week 3, you combined HTML and CSS to style your page. Now, we’ll **refine**
 ### Instructions
 
 1. **Set Up Your Workspace**  
-   - Make a new folder named `week4_responsive_assignment`.  
-   - Copy your `index.html` and `styles.css` from Week 3 into this folder.
+   - Inside your existing project folder (e.g., `DIG-315 Project`) or whatever yours is named, create a **new HTML file** for Week 4 named `responsive.html` or something similar. Be sure you have the proper `.html`.  
+   - Add in your basic HTML code to this file. Alternately, you can copy your `portfolio.html` code from Week 3 into this new file for a quick setup.  
+   - Open your CSS file named `styles.css` in the same folder. At this point you should have at least your four (4) `.html` files and also your one (1) `styles.css` all in your one (1) project folder.
+
 
 2. **Link Files & Confirm**  
-   - Ensure your `index.html` properly links to `styles.css` (just like Week 3).  
-   - Open `index.html` in the browser to verify your current (Week 3) styling is still intact.
+   - Ensure your new `responsive.html` properly links to `styles.css` (just like Week 3).  
+   - Open `responsive.html` in the browser to verify your current styling is still intact.
 
 3. **Refine & Organize CSS**  
    - In your `styles.css`, **add explanatory comments** to existing selectors. For example:
