@@ -15,22 +15,22 @@
 
 In this lab, you’ll:
 
-1. **Copy your Week 4 project** (HTML & CSS) into a new folder named `week5_js_lab`.  
-2. **Add a JavaScript file**, then link it to your HTML.  
+1. **Copy your Week 4 HTML** (HTML & CSS) and create a new file for this week called  `javascript.html`.  
+2. **Add a JavaScript (.js) file**, then link it to your HTML.  
 3. Use **simple JavaScript** to toggle the visibility of an element, demonstrating how to respond to user actions (e.g., a button click) and update the page in real time.
 
 ---
 
 ## Step-by-Step Instructions
 
-1. **Create a New Folder**  
-   - Make a folder named `week5_js_lab`.  
-   - Copy your `index.html` and `styles.css` from Week 4 into this new folder.
+1. **Create a New File**  
+   - Create a new HTML file for this week or copy your Week 4 HTML file for a quick start and name it `javascript.html`.  
+   - Be sure to save it along with all of your previous work (HTML and CSS) in your class project folder.
 
 2. **Add a JavaScript File**  
-   - In `week5_js_lab`, create a new file named `script.js`.
+   - Also in your class project folder, create a new, empty file named `script.js`.
 
-3. **Link the JavaScript in `index.html`**  
+3. **Link the new JavaScript (.js) in `javascript.html`**  
    - Just before the closing `</body>` tag in your HTML, add:
 
      ```html
@@ -39,7 +39,7 @@ In this lab, you’ll:
      ```
 
 4. **Add an Interactive Button**  
-   - In your `index.html`, choose a place where you want a user to click a button (e.g., near the “Fun Fact” aside or in a separate section).  
+   - In your `javascript.html`, choose a place where you want a user to click a button (e.g., near the “Fun Fact” aside or in a separate section).  
    - Example: Right under the `<h3>Fun Fact</h3>` in the aside, add a new button with an `id` so we can reference it in JavaScript:
 
      ```html
@@ -80,7 +80,7 @@ In this lab, you’ll:
      - On `toggleBtn.addEventListener("click", ...)`, we run a function that checks if `funFactAside` is currently hidden. If so, we show it; otherwise, we hide it.
 
 6. **Try It Out**  
-   - **Open `index.html` in your browser**.  
+   - **Open `javascript.html` in your browser**.  
    - Click the “Toggle Fun Fact” button. The aside should hide or show depending on its current state.  
    - Resize the page to confirm your previous CSS media queries (Week 4) still work.
 
@@ -113,9 +113,9 @@ In this lab, you’ll:
 
 ## Example Files
 
-Below is a **complete sample** based on the Week 4 structure. Simply copy/paste into your `week5_js_lab` folder. Adjust text, images, or layout as desired.
+Below is a **complete sample** based on the previous structure. Feel free to study the code and use what you need. Adjust text, images, or layout as desired.
 
-### **index.html**
+### **javascript.html**
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -344,7 +344,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ## Submission & Grading
 
-1. **Submit your `index.html`, `styles.css`, and `script.js` files** to the designated place (LMS or Git repo).  
+1. **Submit your `javascript.html`, `styles.css`, and `script.js` files** to the designated place (LMS or Git repo). A screen shot or event better a screen video of your page working as intended is a great way to share your work!!
 2. **Due Date:** End of Week 5.
 
 **Grading Criteria**  
