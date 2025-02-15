@@ -46,12 +46,13 @@ In this lab, you’ll:
      <aside id="fun-fact-aside">
        <h3>Fun Fact</h3>
        <p>I once traveled to three countries in a single month!</p>
-       <!-- NEW BUTTON to toggle the aside visibility -->
-       <button id="toggle-fact-btn">Toggle Fun Fact</button>
      </aside>
+
+     <!-- NEW BUTTON to toggle the aside visibility -->
+     <button id="toggle-fact-btn">Toggle Fun Fact</button>
      ```
 
-5. **Write Basic JavaScript (in `script.js`)**  
+5. **Write Basic JavaScript** (in `script.js`)  
    - We’ll toggle the aside’s visibility whenever the button is clicked. Add this code to `script.js`:
 
      ```js
@@ -158,10 +159,12 @@ Below is a **complete sample** based on the previous structure. Feel free to stu
       </ul>
     </section>
 
+<!-- Your Js button can go anywhere in your page. -->
+<button id="toggle-fact-btn">Toggle Fun Fact</button>
+
     <aside id="fun-fact-aside">
       <h3>Fun Fact</h3>
       <p>I once traveled to three countries in a single month!</p>
-      <button id="toggle-fact-btn">Toggle Fun Fact</button>
     </aside>
   </main>
 
