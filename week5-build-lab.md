@@ -133,9 +133,11 @@ Below is a **complete sample** based on the previous structure. Feel free to stu
 
   <nav id="main-nav">
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="responsive.html">Responsive</a></li>
+      <li><a href="javascript.html">javascript</a></li>
     </ul>
   </nav>
 
