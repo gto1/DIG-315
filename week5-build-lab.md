@@ -1,6 +1,11 @@
-**Week 5 Build Lab: “Adding Basic JavaScript Interactions”**
+# Week 5 Build Lab
 
-### Objective
+**Due Date:** End of Week 5 Sunday 11:59 PM  
+**Points:** 50  
+**Submission Format:** Your HTML, CSS, and Javascript code and any supporting files. A screen shot or screen recording of it working is perfectly acceptable and makes it easy for me to check that you are doing well.
+
+
+### Learning Objectives
 - Extend your Week 4 webpage with **basic, practical JavaScript** to introduce dynamic behavior and user interaction.  
 - Learn how to **manipulate the DOM** (Document Object Model) by showing/hiding elements or updating content on the page.  
 
