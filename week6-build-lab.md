@@ -1,15 +1,18 @@
-**Week 6 Build Lab: “Local Quotes Feature”**
+# Week 6 Build Lab
 
-### Objective
+**Due Date:** End of Week 6 Sunday 11:59 PM  
+**Points:** 50  
+**Submission Format:** Your HTML, CSS, and Javascript code and any supporting files. A screen shot or screen recording of it working is perfectly acceptable and makes it easy for me to check that you are doing well.
+
+
+### Learning Objectives
 - Practice **JavaScript arrays**, **event handling**, and **DOM manipulation** while **keeping everything local**—no internet connections or external APIs required.  
 - Reinforce fundamental JS concepts in a straightforward setup, allowing you to just double-click your file and run the code.
 
----
 
 ## Overview
 In this lab, you’ll create a **local random quote feature** that displays quotes from a simple JavaScript array. Each time the user clicks a button, it selects a random quote, updates the page, and requires **no external network** calls or servers—ideal for working purely on your own machine.
 
----
 
 ## Instructions
 
